@@ -6,22 +6,6 @@ trabajo_enviar
 </name>
 </assembly>
 <members>
-<member name="T:trabajo_enviar.My.Resources.Resources">
-<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member>
-<member name="P:trabajo_enviar.My.Resources.Resources.ResourceManager">
-<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member>
-<member name="P:trabajo_enviar.My.Resources.Resources.Culture">
-<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member>
 <member name="T:trabajo_enviar.AlumnosDataSet">
 <summary>
 Represents a strongly typed in-memory cache of data.

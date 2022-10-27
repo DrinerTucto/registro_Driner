@@ -112,3 +112,4 @@ C:\Users\driner tn\source\repos\trabajo_enviar\registro_Driner-main\registro_Dri
 C:\Users\driner tn\source\repos\trabajo_enviar\registro_Driner-main\registro_Driner-main\trabajo_enviar\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\Users\driner tn\source\repos\trabajo_enviar\registro_Driner-main\registro_Driner-main\trabajo_enviar\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\driner tn\source\repos\trabajo_enviar\registro_Driner-main\registro_Driner-main\trabajo_enviar\obj\Debug\trabajo_enviar.Form2.resources
+C:\Users\driner tn\source\repos\trabajo_enviar\registro_Driner-main\registro_Driner-main\trabajo_enviar\obj\Debug\trabajo_enviar.Configuracion.resources
